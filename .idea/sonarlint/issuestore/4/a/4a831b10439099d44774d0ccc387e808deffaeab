@@ -1,0 +1,32 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(œû¿Ø8ŞŒğñÕ/
+h
+java:S1854?"FRemove this useless assignment to local variable "polaczeniaJaskini1".(œ·¶°ûÿÿÿÿ8àŒğñÕ/
+U
+java:S1854€"7Remove this useless assignment to local variable "xxx".(ĞòåÙ8áŒğñÕ/
+{
+java:S30128"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(×˜–¸úÿÿÿÿ8ëŒğñÕ/
+X	java:S125:"<This block of commented-out lines of code should be removed.(íıª‘8ëŒğñÕ/
+Y
+java:S1481?"7Remove this unused "polaczeniaJaskini1" local variable.(œ·¶°ûÿÿÿÿ8ìŒğñÕ/
+l
+java:S1764s"JCorrect one of the identical sub-expressions on both sides of operator "-"(Òã™ìÿÿÿÿÿ8îŒğñÕ/
+H
+java:S1481z"&Remove this unused "o" local variable.(‚Í¹§üÿÿÿÿ8îŒğñÕ/
+F
+java:S1481€"(Remove this unused "xxx" local variable.(ĞòåÙ8ïŒğñÕ/
+I
+java:S2440Û"&Remove this instantiation of "Writer".(Šı—Èúÿÿÿÿ8õŒğñÕ/
+{
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ·¶°ûÿÿÿÿ8÷ŒğñÕ/
+v
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(İßóÃ8øŒğñÕ/
+w
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞòåÙ8øŒğñÕ/
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈË®Ÿ8øŒğñÕ/
+|
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÃÎ—øÿÿÿÿ8øŒğñÕ/
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊ8‰”ğñÕ/

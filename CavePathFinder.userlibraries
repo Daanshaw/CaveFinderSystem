@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="guava-30.1.1-jre" />
+  <library name="jgraph" />
+  <library name="jgrapht" />
+  <library name="jgrapht-core-1.5.1" />
+  <library name="jgrapht-demo-1.5.1" />
+  <library name="jgrapht-ext-1.5.1" />
+  <library name="jgrapht-io-1.5.1" />
+  <library name="jgraphx-4.1.0" />
+  <library name="jheaps-0.13" />
+</eclipse-userlibraries>
+

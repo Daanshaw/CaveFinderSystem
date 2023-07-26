@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CavePathFinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CavePathFinder_jar</output-path>
+    <root id="archive" name="CavePathFinder.jar">
+      <element id="module-output" name="CavePathFinder" />
+    </root>
+  </artifact>
+</component>

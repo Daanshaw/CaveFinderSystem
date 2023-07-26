@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/guava-30.1.1-jre"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgraph"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgrapht"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgrapht-core-1.5.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgrapht-demo-1.5.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgrapht-ext-1.5.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgrapht-io-1.5.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgraphx-4.1.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jheaps-0.13"/>
+	<classpathentry kind="output" path="out/production/CavePathFinder"/>
+</classpath>

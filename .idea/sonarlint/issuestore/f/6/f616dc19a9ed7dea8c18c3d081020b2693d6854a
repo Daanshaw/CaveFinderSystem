@@ -1,0 +1,9 @@
+
+m
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÏƒÌğşÿÿÿÿ
+]	java:S125r"<This block of commented-out lines of code should be removed.(ƒğöíıÿÿÿÿ8ÀŸîñÕ/
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(‘øôõùÿÿÿÿ
+>
+java:S1643o"Use a StringBuilder instead.(ÎŠ¥ûÿÿÿÿ8Ï±ªòÕ/
+{
+java:S1488Z"^Immediately return this expression instead of assigning it to the temporary variable "noPath".(‘¢»â8°í¶òÕ/

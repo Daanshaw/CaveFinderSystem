@@ -1,0 +1,7 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(õÄùğ8’òÕ/
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8”’òÕ/
+k
+java:S2259"IA "NullPointerException" could be thrown; "outputSteam" is nullable here.(¾àªøüÿÿÿÿ8§Š•òÕ/
